@@ -22,7 +22,7 @@ int BinarySearch(int arr[],int s,int y){
                 break;
         }
     }
-    return -1;
+    return -1; //
 }
 int main(){
     int s;
